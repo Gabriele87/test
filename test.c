@@ -11,6 +11,7 @@ typedef struct prova
 prova_t prova1={10,12,1.1};
 
  int main(void){
-     
+	
+	printf("primo test git");
      return 0;
  }
