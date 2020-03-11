@@ -15,3 +15,7 @@ prova_t prova1={10,12,1.1};
 	printf("primo test git");
      return 0;
  }
+int funzione(void){
+
+return 0;
+}
