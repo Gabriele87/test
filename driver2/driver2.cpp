@@ -19,5 +19,7 @@ class Dog:
 
 
 int main(void){
+Dog dog1;
+cout<<dog1.getFurColor()<<endl;
 return 0;
 }
